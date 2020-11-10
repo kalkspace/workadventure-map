@@ -126,10 +126,7 @@
          "tileheight":32,
          "tilewidth":32
         },
-        {
-         "firstgid":1112,
-         "source":"..\/ProjectUtumno_full.tsx"
-        }],
+  ],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
