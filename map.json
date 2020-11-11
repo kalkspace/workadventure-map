@@ -172,6 +172,12 @@
          "id":31,
          "name":"Sportgarage",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Sportgarage"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
