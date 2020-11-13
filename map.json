@@ -42,9 +42,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/bbb.kalk.space\/b\/bue-kfp-mna"
+                 "value":"Paaaaarty"
                 }],
          "type":"tilelayer",
          "visible":true,
