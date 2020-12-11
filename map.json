@@ -378,12 +378,6 @@
  "nextlayerid":55,
  "nextobjectid":4,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"OpenWebsite",
-         "type":"string",
-         "value":"fr.de"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
