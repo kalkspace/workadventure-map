@@ -139,7 +139,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/kalkspace\/sammlung_awareness.png",
+         "image":"sammlung_awareness.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -234,7 +234,7 @@
         {
          "columns":100,
          "firstgid":257,
-         "image":"..\/kalkspace\/tileset.png",
+         "image":"tileset.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -734,7 +734,7 @@
         {
          "columns":16,
          "firstgid":10257,
-         "image":"..\/kalkspace\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
