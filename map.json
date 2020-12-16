@@ -25,7 +25,7 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"Objektebene 1",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
