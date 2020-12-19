@@ -50,7 +50,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=tom_gotthardt&parent=www.example.com"
+                 "value":"https:\/\/player.twitch.tv\/?channel=tom_gotthardt&parent=play.workadventu.re"
                 }],
          "type":"tilelayer",
          "visible":true,
