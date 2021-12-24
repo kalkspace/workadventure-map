@@ -1811,7 +1811,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"tiles.rc3.world"
+                 "value":"CC0 1.0 Universal"
                 }],
          "spacing":0,
          "tilecount":91,
