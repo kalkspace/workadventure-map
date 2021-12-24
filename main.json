@@ -312,8 +312,14 @@
  "nextlayerid":28,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Copyright 2021 KalkSpace e.V.  | Lizenz: cc-by-sa 3.0 DE"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -324,6 +330,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"sammlung_awareness",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Awareness Team"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -506,6 +518,12 @@
          "imagewidth":3200,
          "margin":0,
          "name":"tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright 2021 KalkSpace e.V.  | Lizenz: cc-by-sa 3.0 DE"
+                }],
          "spacing":0,
          "tilecount":10000,
          "tileheight":32,
@@ -1542,6 +1560,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Copyright https:\/\/www.deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1723,6 +1747,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"No copyright"
+                        }]
+                }, 
+                {
                  "id":49,
                  "properties":[
                         {
@@ -1777,6 +1810,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tiles.rc3.world"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -1793,10 +1832,20 @@
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Copyright pipoya.itch.io | See https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":55
 }
