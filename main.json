@@ -84,9 +84,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-south.json#start_kalkspace"
+                 "value":"world:\/\/lobby\/punchcard.json#start_kalkspace"
                 }],
          "type":"tilelayer",
          "visible":true,
